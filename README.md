@@ -132,7 +132,7 @@ Log out and log in to the new, non-`root` user account before proceeding.
 1. Download the Replicator start script
 
    ```
-   wget "https://raw.githubusercontent.com/idexio/staking-replicator/main/scripts/start-idex-replicator.sh"
+   wget "https://raw.githubusercontent.com/johannusNL/staking-replicator/main/scripts/start-idex-replicator.sh"
    ```
 
 1. Enable script permissions
